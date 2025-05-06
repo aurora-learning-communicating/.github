@@ -1,5 +1,9 @@
 # 奥罗拉 开源技术与交流 小组
 
+## 提前声明
+
+由于个人有其他事要做(比如减肥，锻炼，接单)，不可能一直坐在电脑前打代码，我的安排请看 [项目的 project](https://github.com/orgs/aurora-learning-communicating/projects)
+
 ## 小组成员
 
 - KurtSteiner (@kurt-steiner)
